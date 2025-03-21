@@ -7,8 +7,6 @@
 ## 🔥 Features
 
 ✅ **To-Do List** 📝 – Organize tasks effortlessly.  
-📄
-🤖 **AI Q&A Helper** 💡 – Get instant answers to your questions.  
 
 ✨ Designed for maximum efficiency with a beautiful & seamless experience! ✨
 
@@ -24,7 +22,7 @@
 
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/your-username/ultimate-productivity.git
+   git clone https://github.com/23rehan/ultimate-productivity.git
    ```
 2. **Open the project folder**  
    ```sh
